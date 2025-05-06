@@ -76,7 +76,7 @@ In real-world practice, a model's utility is defined not just by accuracy, but b
 
 ## 📂 Dataset Summary
 
-See [CAMUS Dataset](https://humanheart-project.creatis.insa-lyon.fr/database/#collection/6373703d73e9f0047faa1bc8) for detailed breakdown.
+See [CAMUS Dataset](https://humanheart-project.creatis.insa-lyon.fr/database/#collection/6373703d73e9f0047faa1bc8) or [Kaggle CAMUS Dataset](https://www.kaggle.com/datasets/toygarr/camus-subject-based) for detailed breakdown.
 
 * 500 clinical subjects (450 train, 50 test)
 * Views: A4C + A2C
